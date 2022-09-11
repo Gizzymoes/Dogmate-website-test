@@ -184,7 +184,8 @@ h1 {
 .phone-image {
  position: static;
  text-align: center;
-width: 90%;
+height: 613px;
+width: 304px;
 padding-top: 30px;
 }
 #title {
@@ -209,4 +210,14 @@ padding-top: 30px;
 .price-motto {
   padding-bottom: 30px;
 }
+
+.testimonial-image {
+  width: 30%;
+  position:static;
+}
+
+.carousel-item {
+  padding: 7% 3%;
+}
+
   }
